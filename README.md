@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya1672&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya1672" /> </p>
 
 # 💫 About Me:
-👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Next js<br>💬 Ask me about next js, react, node js, express js, MongoDB Tailwind CSS<br>⚡ Fun fact Interestingly, a few years ago, working in the tech industry wasn't even on my radar.<br>📫 How to reach me chaitanyanarhare111@gmail.com<br>📄 Know about my experiences https://flowcv.com/resume/dknft98k3a
+👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Next js<br>💬 Ask me about next js, react, node js, express js, MongoDB Tailwind CSS<br>⚡ Fun fact Interestingly, a few years ago, working in the tech industry wasn't even on my radar.<br>📫 How to reach me chaitanyanarhare111@gmail.com<br>📄 Know about my experiences (Resume/CV):- https://flowcv.com/resume/dknft98k3a
 
 
 ## 🌐 Socials:
