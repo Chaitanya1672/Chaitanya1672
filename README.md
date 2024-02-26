@@ -15,6 +15,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya1672&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya1672&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img src="https://raw.githubusercontent.com/Chaitanya1672/Chaitanya1672/output/snake.svg" alt="Snake animation" />
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chaitanya1672&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
