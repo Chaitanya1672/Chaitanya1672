@@ -3,8 +3,8 @@
 # 💫 About Me:
 Hi I am Passionate MERN (MongoDB, Express.js, React.js, Node.js) + Next.js developer with over 2 years of hands-on experience in crafting robust and scalable web applications. 🚀 Proficient in creating seamless and dynamic user interfaces, I bring expertise in the complete software development lifecycle. 🛠️ My goal is to contribute innovative solutions that elevate user experiences. Let's code and build something amazing together! 💻✨.
 
-👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Next js<br>💬 Ask me about next js, react, node js, express js, MongoDB Tailwind CSS<br>⚡ Fun fact Interestingly, a few years ago, working in the tech industry wasn't even on my radar.<br>📫 How to reach me chaitanyanarhare111@gmail.com<br>📄 Know about my experiences (Resume/CV):- https://flowcv.com/resume/dknft98k3a
-Portfolio:- https://chaitanya-potfolio.vercel.app/
+👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Next js<br>💬 Ask me about next js, react, node js, express js, MongoDB Tailwind CSS<br>⚡ Fun fact Interestingly, a few years ago, working in the tech industry wasn't even on my radar.<br>📫 How to reach me chaitanyanarhare111@gmail.com<br>📄 Know about my experiences (Resume/CV):- https://flowcv.com/resume/dknft98k3a <br>
+📁 Portfolio:- https://chaitanya-potfolio.vercel.app/
 
 
 ## 🌐 Socials:
