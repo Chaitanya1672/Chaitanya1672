@@ -17,14 +17,10 @@ A creative coding project using p5.js, a JavaScript library that makes coding ac
   ![Forks](https://img.shields.io/github/forks/processing/p5.js-web-editor) ![Issues](https://img.shields.io/github/issues/processing/p5.js-web-editor) ![Pull Requests](https://img.shields.io/github/issues-pr/processing/p5.js-web-editor)
 
 - [talawa-admin(PalisadoesFoundation GSOC)](https://github.com/processing/p5.js) *(React-graphql)*    
-A creative coding project using p5.js, a JavaScript library that makes coding accessible for artists, designers, educators, and beginners.
+Talawa is a modular open source project to manage group activities of both non-profit organizations and businesses.
 ![Forks](https://img.shields.io/github/forks/PalisadoesFoundation/talawa-admin) ![Issues](https://img.shields.io/github/issues/PalisadoesFoundation/talawa-admin) ![Pull Requests](https://img.shields.io/github/issues-pr/PalisadoesFoundation/talawa-admin)
 
-- [daily-code](https://github.com/code100x/daily-code) *Daily Code (Monorepo-Nextjs)*    
-  A repository for daily coding challenges and exercises.  
-  ![Forks](https://img.shields.io/github/forks/code100x/daily-code) ![Issues](https://img.shields.io/github/issues/code100x/daily-code) ![Pull Requests](https://img.shields.io/github/issues-pr/code100x/daily-code) 
-
-- [CustomCodeEditor](https://github.com/DhanushNehru/CustomCodeEditor)   
+- [Open-Source-Contribution Portfolio](https://chaitanya-portfolio-next.vercel.app/open-source) 
 
 ## 🌐 Socials:
 [![Chaitanya Narhare](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-narhare/) 
