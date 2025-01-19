@@ -1,10 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanya1672&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanya1672" /> </p>
 
 # 💫 About Me:
-Hi I am Passionate MERN (MongoDB, Express.js, React.js, Node.js) + Next.js developer with over 3 years of hands-on experience in crafting robust and scalable web applications. 🚀 Proficient in creating seamless and dynamic user interfaces, I bring expertise in the complete software development lifecycle. 🛠️ My goal is to contribute innovative solutions that elevate user experiences. Let's code and build something amazing together! 💻✨.
+Hi I am Passionate Software Engineer developer with over 3 years of hands-on experience in crafting robust and scalable web applications. 🚀 Proficient in creating seamless and dynamic user interfaces, I bring expertise in the complete software development lifecycle. 🛠️ My goal is to contribute innovative solutions that elevate user experiences. Let's code and build something amazing together! 💻✨. <br>
 
-👯 I’m open-source contributor [check-out](https://chaitanya-portfolio-next.vercel.app/open-source)<br>🌱 I’m currently exploring Nest js (Backend framework alternative of express js)<br>💬 Ask me about Next js, React, Node js, Express js, MongoDB Tailwind CSS<br>⚡ Fun fact Interestingly, a few years ago, working in the tech industry wasn't even on my radar.<br>
-📁 My Portfolio:- https://chaitanya-potfolio.vercel.app/ <br> 📫 How to reach me chaitanyanarhare111@gmail.com<br>📄 Know about my experiences [Resume/CV](https://flowcv.com/resume/dknft98k3a)<br>
+**Technologies Worked**:- ***MERN (MongoDB, Express.js, React.js, Node.js), Next.js, Java (Springboot), Angular, Threejs***
+
+👯 I’m open-source contributor [check-out](https://chaitanya-portfolio-next.vercel.app/open-source)<br>🌱 I’m currently exploring Three js & Angular for creating location services<br>💬 Ask me about Next js, React, Node js, Express js, MongoDB Tailwind CSS<br>⚡ Fun fact Interestingly, a few years ago, working in the tech industry wasn't even on my radar.<br>
+📁 My Portfolio:- [https://www.chaitanyanarhare.com/](https://www.chaitanyanarhare.com/) <br> 📫 How to reach me chaitanyanarhare111@gmail.com<br>📄 Know about my experiences [Resume/CV](https://flowcv.com/resume/dknft98k3a)<br>
 
 ### 📦 Top Contributed Repositories
 
